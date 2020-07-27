@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Net.Http;
 using System.Text.Json.Serialization;
 using Newtonsoft.Json;
@@ -21,7 +22,11 @@ namespace CousantAssessment
         public static void PrintCategories()
         {
             var foodCategories = new List<string>();
-            using (var rd = new StreamReader("generic-food.csv"))
+
+            HttpWebRequest req = (HttpWebRequest)WebRequest.Create("https://drive.google.com/u/0/uc?id=1KR5_pSuSwbF5IH7GD5BtTZn7SZ-xeWhM&export=download");
+            HttpWebResponse resp = (HttpWebResponse)req.GetResponse();
+
+            using (var rd = new StreamReader(resp.GetResponseStream()))
             {
                 while (!rd.EndOfStream)
                 {
@@ -30,6 +35,7 @@ namespace CousantAssessment
                     foodCategories.Add(splits[categoryIndex]);
                 }
             }
+            
             var r = from e in foodCategories
                     where e != "CATEGORY"
                     group e by new { e } into g
@@ -44,6 +50,7 @@ namespace CousantAssessment
                 Console.WriteLine(foodCategory.Category + " ........ " + foodCategory.Count);
 
         }
+
         public static void GetMondayNews()
         {
             using(HttpClient client = new HttpClient())
