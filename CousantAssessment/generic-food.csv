@@ -1,0 +1,908 @@
+FOOD NAME,SCIENTIFIC NAME,CATEGORY
+Angelica,Angelica keiskei,Herbs and Spices
+Savoy cabbage,Brassica oleracea var. sabauda,Vegetables
+Silver linden,Tilia argentea,Herbs and Spices
+Kiwi,Actinidia chinensis,Fruits
+Allium (Onion),Allium,Vegetables
+Garden onion,Allium cepa,Vegetables
+Leek,Allium porrum,Vegetables
+Garlic,Allium sativum,Herbs and Spices
+Chives,Allium schoenoprasum,Herbs and Spices
+Lemon verbena,Aloysia triphylla,Herbs and Spices
+Cashew nut,Anacardium occidentale,Nuts
+Pineapple,Ananas comosus,Fruits
+Dill,Anethum graveolens,Herbs and Spices
+Custard apple,Annona reticulata,Fruits
+Wild celery,Apium graveolens,Herbs and Spices
+Peanut,Arachis hypogaea,Nuts
+Burdock,Arctium lappa,Vegetables
+Horseradish,Armoracia rusticana,Herbs and Spices
+Tarragon,Artemisia dracunculus,Herbs and Spices
+Mugwort,Artemisia vulgaris,Herbs and Spices
+Asparagus,Asparagus officinalis,Vegetables
+Oat,Avena sativa,Cereals and cereal products
+Star fruit,Averrhoa carambola,Fruits
+Brazil nut,Bertholletia excelsa,Nuts
+Common beet,Beta vulgaris,Vegetables
+Borage,Borago officinalis,Herbs and Spices
+Chinese mustard,Brassica juncea,Vegetables
+Swede,Brassica napus,Vegetables
+Rape,Brassica napus var. napus,Vegetables
+Common cabbage,Brassica oleracea,Vegetables
+Cauliflower,Brassica oleracea var. botrytis,Vegetables
+Brussel sprouts,Brassica oleracea var. gemmifera,Vegetables
+Kohlrabi,Brassica oleracea var. gongylodes,Vegetables
+Broccoli,Brassica oleracea var. italica,Vegetables
+Chinese cabbage,Brassica rapa,Vegetables
+Turnip,Brassica rapa var. rapa,Herbs and Spices
+Pigeon pea,Cajanus cajan,Pulses
+Tea,Camellia sinensis,Teas
+Capers,Capparis spinosa,Herbs and Spices
+Pepper (C. annuum),Capsicum annuum,Vegetables
+Papaya,Carica papaya,Fruits
+Safflower,Carthamus tinctorius,Herbs and Spices
+Caraway,Carum carvi,Herbs and Spices
+Pecan nut,Carya illinoinensis,Nuts
+Chestnut,Castanea,Nuts
+Roman camomile,Chamaemelum nobile,Herbs and Spices
+Chickpea,Cicer arietinum,Pulses
+Endive,Cichorium endivia,Vegetables
+Chicory,Cichorium intybus,Vegetables
+Chinese cinnamon,Cinnamomum aromaticum,Herbs and Spices
+Ceylon cinnamon,Cinnamomum verum,Herbs and Spices
+Watermelon,Citrullus lanatus,Gourds
+Lime,Citrus aurantiifolia,Fruits
+Lemon,Citrus limon,Fruits
+Pummelo,Citrus maxima,Fruits
+"Mandarin orange (Clementine, Tangerine)",Citrus reticulata,Fruits
+Sweet orange,Citrus sinensis,Fruits
+Coffee,Coffea,Coffee and coffee products
+Arabica coffee,Coffea arabica,Coffee and coffee products
+Robusta coffee,Coffea canephora,Coffee and coffee products
+Coriander,Coriandrum sativum,Herbs and Spices
+Common hazelnut,Corylus avellana,Nuts
+Saffron,Crocus sativus,Herbs and Spices
+Muskmelon,Cucumis melo,Gourds
+Cucumber,Cucumis sativus,Gourds
+Cucurbita (Gourd),Cucurbita,Gourds
+Cumin,Cuminum cyminum,Herbs and Spices
+Turmeric,Curcuma longa,Herbs and Spices
+Quince,Cydonia oblonga,Fruits
+Lemon grass,Cymbopogon citratus,Herbs and Spices
+Globe artichoke,Cynara scolymus,Vegetables
+Wild carrot,Daucus carota,Vegetables
+Japanese persimmon,Diospyros kaki,Fruits
+Cardamom,Elettaria cardamomum,Herbs and Spices
+Black crowberry,Empetrum nigrum,Fruits
+Loquat,Eriobotrya japonica,Fruits
+Rocket salad (ssp.),Eruca vesicaria ssp. sativa,Vegetables
+Wax apple,Eugenia,Fruits
+Common buckwheat,Fagopyrum esculentum,Cereals and cereal products
+Tartary buckwheat,Fagopyrum tataricum,Cereals and cereal products
+Fig,Ficus carica,Fruits
+Fennel,Foeniculum vulgare,Herbs and Spices
+Strawberry,Fragaria X ananassa,Fruits
+Black huckleberry,Gaylussacia baccata,Fruits
+Soy bean,Glycine max,Soy
+Sunflower,Helianthus annuus,Herbs and Spices
+Sea-buckthornberry,Hippophae rhamnoides,Fruits
+Barley,Hordeum vulgare,Cereals and cereal products
+Hyssop,Hyssopus officinalis,Herbs and Spices
+Star anise,Illicium verum,Herbs and Spices
+Swamp cabbage,Ipomoea aquatica,Vegetables
+Sweet potato,Ipomoea batatas,Vegetables
+Black walnut,Juglans nigra,Nuts
+Common walnut,Juglans regia,Nuts
+Lettuce,Lactuca sativa,Vegetables
+Grass pea,Lathyrus sativus,Pulses
+Sweet bay,Laurus nobilis,Herbs and Spices
+Lentils,Lens culinaris,Pulses
+Garden cress,Lepidium sativum,Vegetables
+Lovage,Levisticum officinale,Herbs and Spices
+Flaxseed,Linum usitatissimum,Herbs and Spices
+Mexican oregano,Lippia graveolens,Herbs and Spices
+Lichee,Litchi chinensis,Fruits
+Lupine,Lupinus,Pulses
+Apple,Malus pumila,Fruits
+Mango,Mangifera indica,Fruits
+German camomile,Matricaria recutita,Herbs and Spices
+Lemon balm,Melissa officinalis,Herbs and Spices
+Mentha (Mint),Mentha,Herbs and Spices
+Orange mint,Mentha aquatica,Herbs and Spices
+Cornmint,Mentha arvensis,Herbs and Spices
+Spearmint,Mentha spicata,Herbs and Spices
+Peppermint,Mentha X piperita,Herbs and Spices
+Medlar,Mespilus germanica,Fruits
+Bitter gourd,Momordica charantia,Gourds
+Mulberry,Morus,Fruits
+Black mulberry,Morus nigra,Fruits
+Nutmeg,Myristica fragrans,Herbs and Spices
+Sweet basil,Ocimum basilicum,Herbs and Spices
+Evening primrose,Oenothera biennis,Herbs and Spices
+Olive,Olea europaea,Vegetables
+Sweet marjoram,Origanum majorana,Herbs and Spices
+Pot marjoram,Origanum onites,Herbs and Spices
+Common oregano,Origanum vulgare,Herbs and Spices
+Rice,Oryza sativa,Cereals and cereal products
+Millet,Panicum miliaceum,Cereals and cereal products
+Poppy,Papaver,Herbs and Spices
+Passion fruit,Passiflora edulis,Fruits
+Parsnip,Pastinaca sativa,Vegetables
+Avocado,Persea americana,Vegetables
+Parsley,Petroselinum crispum,Herbs and Spices
+Scarlet bean,Phaseolus coccineus,Pulses
+Lima bean,Phaseolus lunatus,Pulses
+Common bean,Phaseolus vulgaris,Pulses
+Date,Phoenix dactylifera,Fruits
+Black chokeberry,Photinia melanocarpa,Fruits
+Anise,Pimpinella anisum,Herbs and Spices
+Pine nut,Pinus,Nuts
+Pepper (Spice),Piper nigrum,Herbs and Spices
+Pistachio,Pistacia vera,Nuts
+Common pea,Pisum sativum,Pulses
+Purslane,Portulaca oleracea,Herbs and Spices
+"Prunus (Cherry, Plum)",Prunus,Fruits
+Apricot,Prunus armeniaca,Fruits
+Sweet cherry,Prunus avium,Fruits
+Sour cherry,Prunus cerasus,Fruits
+European plum,Prunus domestica,Fruits
+Almond,Prunus dulcis,Nuts
+Peach,Prunus persica,Fruits
+Guava,Psidium guajava,Fruits
+Pomegranate,Punica granatum,Fruits
+Pear,Pyrus communis,Fruits
+Radish,Raphanus sativus,Vegetables
+Garden rhubarb,Rheum rhabarbarum,Vegetables
+Blackcurrant,Ribes nigrum,Fruits
+Redcurrant,Ribes rubrum,Fruits
+Gooseberry,Ribes uva-crispa,Fruits
+Watercress,Rorippa nasturtium-aquaticum,Herbs and Spices
+Rosemary,Rosmarinus officinalis,Herbs and Spices
+"Rubus (Blackberry, Raspberry)",Rubus,Fruits
+Cloudberry,Rubus chamaemorus,Fruits
+Red raspberry,Rubus idaeus,Fruits
+Black raspberry,Rubus occidentalis,Fruits
+Sorrel,Rumex acetosa,Herbs and Spices
+Common sage,Salvia officinalis,Herbs and Spices
+Black elderberry,Sambucus nigra,Fruits
+Summer savory,Satureja hortensis,Herbs and Spices
+Winter savory,Satureja montana,Herbs and Spices
+Rye,Secale cereale,Cereals and cereal products
+Sesame,Sesamum orientale,Herbs and Spices
+Garden tomato,Solanum lycopersicum,Vegetables
+Cherry tomato,Solanum lycopersicum var. cerasiforme,Vegetables
+Garden tomato (var.),Solanum lycopersicum var. lycopersicum,Vegetables
+Eggplant,Solanum melongena,Vegetables
+Potato,Solanum tuberosum,Vegetables
+Rowanberry,Sorbus aucuparia,Fruits
+Sorghum,Sorghum bicolor,Cereals and cereal products
+Spinach,Spinacia oleracea,Vegetables
+Cloves,Syzygium aromaticum,Herbs and Spices
+Tamarind,Tamarindus indica,Fruits
+Dandelion,Taraxacum officinale,Herbs and Spices
+Cocoa bean,Theobroma cacao,Cocoa and cocoa products
+Common thyme,Thymus vulgaris,Herbs and Spices
+Linden,Tilia,Herbs and Spices
+Small-leaf linden,Tilia cordata,Herbs and Spices
+Fenugreek,Trigonella foenum-graecum,Herbs and Spices
+Common wheat,Triticum aestivum,Cereals and cereal products
+"Vaccinium (Blueberry, Cranberry, Huckleberry)",Vaccinium,Fruits
+Lowbush blueberry,Vaccinium angustifolium,Fruits
+Sparkleberry,Vaccinium arboreum,Fruits
+Highbush blueberry,Vaccinium corymbosum,Fruits
+American cranberry,Vaccinium macrocarpon,Fruits
+Bilberry,Vaccinium myrtillus,Fruits
+Lingonberry,Vaccinium vitis-idaea,Fruits
+Vanilla,Vanilla,Herbs and Spices
+Common verbena,Verbena officinalis,Herbs and Spices
+Broad bean,Vicia faba,Pulses
+Adzuki bean,Vigna angularis,Pulses
+Gram bean,Vigna mungo,Pulses
+Mung bean,Vigna radiata,Pulses
+Climbing bean,Vigna umbellata,Pulses
+Cowpea,Vigna unguiculata,Pulses
+Muscadine grape,Vitis rotundifolia,Fruits
+Common grape,Vitis vinifera,Fruits
+Corn,Zea mays,Cereals and cereal products
+Ginger,Zingiber officinale,Herbs and Spices
+Arctic blackberry,Rubus arcticus,Fruits
+Banana,Musa acuminata,Fruits
+Bayberry,Myrica,Fruits
+Elliott's blueberry,Vaccinium elliottii,Fruits
+Canada blueberry,Vaccinium myrtilloides,Fruits
+Bog bilberry,Vaccinium uliginosum,Fruits
+Buffalo currant,Ribes aureum var. villosum,Fruits
+Celeriac,Apium graveolens var. rapaceum,Vegetables
+Celery stalks,Apium graveolens var. dulce,Vegetables
+Chinese chives,Allium tuberosum,Herbs and Spices
+European cranberry,Vaccinium oxycoccos,Fruits
+Deerberry,Vaccinium stamineum,Fruits
+Ginseng,Panax,Herbs and Spices
+Cascade huckleberry,Vaccinium deliciosum,Fruits
+Oval-leaf huckleberry,Vaccinium ovalifolium,Fruits
+Evergreen huckleberry,Vaccinium ovatum,Fruits
+Red huckleberry,Vaccinium parvifolium,Fruits
+Longan,Dimocarpus longan,Fruits
+Macadamia nut (M. tetraphylla),Macadamia tetraphylla,Nuts
+Garden onion (var.),Allium cepa var. cepa,Vegetables
+Summer grape,Vitis aestivalis,Fruits
+Fox grape,Vitis labrusca,Fruits
+Nectarine,Prunus persica var. nucipersica,Fruits
+Peach (var.),Prunus persica var. persica,Fruits
+Pepper (C. baccatum),Capsicum baccatum var. baccatum,Vegetables
+Pepper (C. chinense),Capsicum chinense,Vegetables
+Pepper (Capsicum),Capsicum,Vegetables
+Rambutan,Nephelium lappaceum,Fruits
+Red rice,Oryza rufipogon,Cereals and cereal products
+Annual wild rice,Zizania aquatica,Cereals and cereal products
+Swiss chard,Beta vulgaris ssp. cicla,Vegetables
+Lemon thyme,Thymus pulegioides,Herbs and Spices
+Tronchuda cabbage,Brassica oleracea var. costata,Vegetables
+Japanese walnut,Juglans ailanthifolia,Nuts
+Welsh onion,Allium fistulosum,Herbs and Spices
+Hard wheat,Triticum durum,Cereals and cereal products
+Shallot,Allium ascalonicum,Vegetables
+Rocket salad,Eruca vesicaria,Vegetables
+Carrot,Daucus carota ssp. sativus,Vegetables
+Triticale,X Triticosecale rimpaui,Cereals and cereal products
+Black cabbage,Brassica oleracea var. viridis,Vegetables
+Half-highbush blueberry,Vaccinium angustifolium X Vaccinium corymbosum,Fruits
+Celery leaves,Apium graveolens var. secalinum,Herbs and Spices
+Chicory leaves,Cichorium intybus var. foliosum,Vegetables
+Komatsuna,Brassica rapa var. perviridis,Vegetables
+Pak choy,Brassica rapa var. chinensis,Vegetables
+Napa cabbage,Brassica rapa var. pekinensis,Vegetables
+Chicory roots,Cichorium intybus var. sativum,Vegetables
+Grapefruit/Pummelo hybrid,Citrus paradisi X Citrus maxima,Fruits
+Grapefruit,Citrus X paradisi,Fruits
+Jostaberry,Ribes × nidigrolaria,Fruits
+Kai-lan,Brassica oleracea var. alboglabra,Vegetables
+Italian oregano,Origanum X majoricum,Herbs and Spices
+Oxheart cabbage,Brassica oleracea var. conica,Vegetables
+Daikon radish,Raphanus sativus var. longipinnatus,Vegetables
+Black radish,Raphanus sativus var. niger,Vegetables
+Radish (var.),Raphanus sativus var. sativus,Vegetables
+Red beetroot,Beta vulgaris var. rubra,Vegetables
+Sweet rowanberry,Grataegosorbus mitschurinii,Fruits
+Pineappple sage,Salvia elegans,Herbs and Spices
+Skunk currant,Ribes glandulosum,Fruits
+Beer,NULL,Beverages
+Other bread,NULL,Cereals and cereal products
+Breakfast cereal,NULL,Cereals and cereal products
+Other soy product,NULL,Soy
+Other cereal product,NULL,Cereals and cereal products
+Pasta,NULL,Cereals and cereal products
+Biscuit,NULL,Cereals and cereal products
+Sourdough,NULL,Cereals and cereal products
+Spirit,NULL,Beverages
+Fortified wine,NULL,Beverages
+Other alcoholic beverage,NULL,Beverages
+Abalone,Haliotis,Aquatic foods
+Abiyuch,Crateva religiosa,Fruits
+Acerola,Malpighia emarginata,Fruits
+Acorn,Quercus,Nuts
+Winter squash,Cucurbita maxima,Gourds
+Agar,Eucheuma,Aquatic foods
+Red king crab,Paralithodes camtschaticus,Aquatic foods
+Alfalfa,Medicago sativa,Herbs and Spices
+Allspice,Pimenta dioica,Herbs and Spices
+Amaranth,Amaranthus,Herbs and Spices
+Arrowhead,Sagittaria latifolia,Vegetables
+Arrowroot,Maranta arundinacea,Vegetables
+Asian pear,Pyrus pyrifolia,Fruits
+Atlantic herring,Clupea harengus harengus,Aquatic foods
+Atlantic mackerel,Scomber scombrus,Aquatic foods
+Painted comber,Serranus scriba,Aquatic foods
+Atlantic pollock,Pollachius pollachius,Aquatic foods
+Atlantic wolffish,Anarhichas lupus,Aquatic foods
+Bamboo shoots,Phyllostachys edulis,Vegetables
+Striped bass,Morone saxatilis,Aquatic foods
+Beaver,Castor canadensis,Animal foods
+Beech nut,Fagus,Nuts
+Beluga whale,Delphinapterus leucas,Aquatic foods
+Bison,Bison bison,Animal foods
+Black bear,Ursus americanus,Animal foods
+Alaska blackfish,Dallia pectoralis,Aquatic foods
+Blue crab,Callinectes sapidus,Aquatic foods
+Blue mussel,Mytilus edulis,Aquatic foods
+Northern bluefin tuna,Thunnus thynnus,Aquatic foods
+Bluefish,Pomatomus saltatrix,Aquatic foods
+Wild boar,Sus scrofa,Animal foods
+Bowhead whale,Balaena mysticetus,Aquatic foods
+Breadfruit,Artocarpus altilis,Fruits
+Breadnut tree seed,Brosimum alicastrum,Herbs and Spices
+Rapini,Brassica ruvo,Vegetables
+Brown bear,Ursus arctos,Animal foods
+Buffalo,Bubalus bubalis,Animal foods
+Burbot,Lota lota,Aquatic foods
+Giant butterbur,Petasites japonicus,Vegetables
+American butterfish,Peprilus triacanthus,Aquatic foods
+Butternut,Juglans cinerea,Nuts
+Butternut squash,Cucurbita moschata,Gourds
+Calabash,Lagenaria siceraria,Gourds
+Cardoon,Cynara cardunculus,Vegetables
+Caribou,Rangifer tarandus,Animal foods
+Natal plum,Carissa macrocarpa,Fruits
+Carob,Ceratonia siliqua,Vegetables
+Common carp,Cyprinus carpio,Aquatic foods
+Cassava,Manihot esculenta,Vegetables
+Channel catfish,Ictalurus punctatus,Aquatic foods
+Chayote,Sechium edule,Gourds
+Cherimoya,Annona cherimola,Fruits
+Chervil,Anthriscus cerefolium,Herbs and Spices
+Chia,Salvia hispanica,Herbs and Spices
+"Chicken (Cock, Hen, Rooster)",Gallus gallus,Animal foods
+Chinese broccoli,Brassica alboglabra,Vegetables
+Chinese chestnut,Castanea mollissima,Nuts
+Chinese water chestnut,Eleocharis dulcis,Vegetables
+Garland chrysanthemum,Chrysanthemum coronarium,Vegetables
+Cisco,Coregonus artedi,Aquatic foods
+Nuttall cockle,Clinocardium nuttallii,Aquatic foods
+Coconut,Cocos nucifera,Fruits
+Pacific cod,Gadus macrocephalus,Aquatic foods
+Atlantic cod,Gadus morhua,Aquatic foods
+Common octopus,Octopus vulgaris,Aquatic foods
+Corn salad,Valerianella locusta,Vegetables
+Cottonseed,Gossypium,Herbs and Spices
+Catjang pea,Vigna unguiculata ssp. cylindrica,Pulses
+Malus (Crab apple),Malus,Fruits
+Squashberry,Viburnum edule,Fruits
+Atlantic croaker,Micropogonias undulatus,Aquatic foods
+Cusk,Brosme brosme,Aquatic foods
+Cuttlefish,Sepiidae,Aquatic foods
+Mule deer,Odocoileus,Animal foods
+Devilfish,Myoxocephalus,Aquatic foods
+Dock,Rumex,Herbs and Spices
+Dolphin fish,Coryphaena hippurus,Aquatic foods
+Freshwater drum,Aplodinotus grunniens,Aquatic foods
+Mallard duck,Anas platyrhynchos,Animal foods
+Dungeness crab,Cancer magister,Aquatic foods
+Durian,Durio zibethinus,Fruits
+Eastern oyster,Crassostrea virginica,Aquatic foods
+Freshwater eel,Anguilla,Aquatic foods
+Elderberry,Sambucus,Fruits
+Elk,Cervus canadensis,Animal foods
+Emu,Dromaius novaehollandiae,Animal foods
+Oregon yampah,Perideridia oregana,Vegetables
+European anchovy,Engraulis encrasicolus,Aquatic foods
+European chestnut,Castanea sativa,Nuts
+Turbot,Scophthalmus maximus,Aquatic foods
+Fireweed,Chamerion angustifolium,Herbs and Spices
+Florida pompano,Trachinotus carolinus,Aquatic foods
+Ginkgo nuts,Ginkgo biloba,Herbs and Spices
+Greylag goose,Anser anser,Animal foods
+Grape,Vitis,Fruits
+Greenland halibut/turbot,Reinhardtius hippoglossoides,Aquatic foods
+Groundcherry,Physalis,Vegetables
+Grouper,Epinephelus,Aquatic foods
+Guinea hen,Numida meleagris,Animal foods
+Haddock,Melanogrammus aeglefinus,Aquatic foods
+Hippoglossus (Common halibut),Hippoglossus,Aquatic foods
+Hazelnut,Corylus,Nuts
+Hickory nut,Carya,Nuts
+Horse,Equus caballus,Animal foods
+Horseradish tree,Moringa oleifera,Vegetables
+Alaska blueberry,Vaccinium alaskaense,Fruits
+Hyacinth bean,Lablab purpureus,Pulses
+Irish moss,Chondrus crispus,Aquatic foods
+Pacific jack mackerel,Trachurus symmetricus,Aquatic foods
+Jackfruit,Artocarpus heterophyllus,Fruits
+Japanese chestnut,Castanea crenata,Nuts
+Java plum,Syzygium cumini,Fruits
+Jerusalem artichoke,Helianthus tuberosus,Vegetables
+Jujube,Ziziphus zizyphus,Fruits
+Jute,Corchorus olitorius,Vegetables
+Kale,Brassica napus var. pabularia,Vegetables
+Kelp,Laminaria,Aquatic foods
+King mackerel,Scomberomorus cavalla,Aquatic foods
+Kumquat,Fortunella,Fruits
+Lambsquarters,Chenopodium album,Vegetables
+Leather chiton,Katharina tunicata,Aquatic foods
+Wild leek,Allium ampeloprasum,Vegetables
+Common ling,Molva molva,Aquatic foods
+Lingcod,Ophiodon elongatus,Aquatic foods
+American lobster,Homarus americanus,Aquatic foods
+Loganberry,Rubus loganobaccus,Fruits
+Lotus,Nelumbo,Herbs and Spices
+Sacred lotus,Nelumbo nucifera,Vegetables
+White lupine,Lupinus albus,Pulses
+Malabar spinach,Basella alba,Vegetables
+Mammee apple,Mammea americana,Fruits
+Purple mangosteen,Garcinia mangostana,Fruits
+Alpine sweetvetch,Hedysarum alpinum,Vegetables
+Milkfish,Chanos chanos,Aquatic foods
+Monkfish,Lophius piscatorius,Aquatic foods
+Moose,Alces alces,Animal foods
+Moth bean,Vigna aconitifolia,Pulses
+Mountain yam,Dioscorea pentaphylla,Vegetables
+Striped mullet,Mugil cephalus,Aquatic foods
+Muskrat,Ondatra zibethicus,Animal foods
+White mustard,Sinapis alba,Herbs and Spices
+Mustard spinach,Brassica perviridis,Vegetables
+New Zealand spinach,Tetragonia tetragonioides,Vegetables
+Nopal,Opuntia cochenillifera,Vegetables
+Ocean pout,Zoarces americanus,Aquatic foods
+North Pacific giant octopus,Enteroctopus dofleini,Aquatic foods
+Ohelo berry,Vaccinium reticulatum,Fruits
+Okra,Abelmoschus esculentus,Vegetables
+Tunicate,Tunicata,Aquatic foods
+Opossum,Didelphis virginiana,Animal foods
+Ostrich,Struthio camelus,Animal foods
+Spotted seal,Phoca largha,Aquatic foods
+Pacific herring,Clupea pallasii,Aquatic foods
+Pacific oyster,Crassostrea gigas,Aquatic foods
+Pacific rockfish,Sebastes,Aquatic foods
+Velvet duck,Melanitta fusca,Animal foods
+Pepper (C. frutescens),Capsicum annuum var. annuum,Vegetables
+Common persimmon,Diospyros virginiana,Fruits
+Pheasant,Phasianus colchicus,Animal foods
+Northern pike,Esox lucius,Aquatic foods
+Pili nut,Canarium ovatum,Nuts
+Colorado pinyon,Pinus edulis,Nuts
+Pitanga,Eugenia uniflora,Fruits
+Plains prickly pear,Opuntia macrorhiza,Fruits
+French plantain,Musa X paradisiaca,Fruits
+American pokeweed,Phytolacca americana,Vegetables
+Polar bear,Ursus maritimus,Animal foods
+Opium poppy,Papaver somniferum,Herbs and Spices
+Prairie turnip,Pediomelum esculentum,Vegetables
+Prickly pear,Opuntia,Fruits
+Quinoa,Chenopodium quinoa,Herbs and Spices
+European rabbit,Oryctolagus,Animal foods
+Raccoon,Procyon lotor,Animal foods
+Rainbow smelt,Osmerus mordax,Aquatic foods
+Rainbow trout,Oncorhynchus mykiss,Aquatic foods
+Malabar plum,Syzygium jambos,Fruits
+Rose hip,Rosa,Herbs and Spices
+Roselle,Hibiscus sabdariffa,Herbs and Spices
+Orange roughy,Hoplostethus atlanticus,Aquatic foods
+Sablefish,Anoplopoma fimbria,Aquatic foods
+Pink salmon,Oncorhynchus gorbuscha,Aquatic foods
+Chum salmon,Oncorhynchus keta,Aquatic foods
+Coho salmon,Oncorhynchus kisutch,Aquatic foods
+Sockeye salmon,Oncorhynchus nerka,Aquatic foods
+Chinook salmon,Oncorhynchus tshawytscha,Aquatic foods
+Atlantic salmon,Salmo salar,Aquatic foods
+Salmonberry,Rubus spectabilis,Fruits
+Common salsify,Tragopogon porrifolius,Vegetables
+Sapodilla,Manilkara zapota,Fruits
+Mamey sapote,Pouteria sapota,Fruits
+Spanish mackerel,Scomberomorus maculatus,Aquatic foods
+Pacific sardine,Sardinops sagax,Aquatic foods
+Scallop,Pectinidae,Aquatic foods
+Scup,Stenotomus chrysops,Aquatic foods
+Sea cucumber,Parastichopus californicus,Aquatic foods
+Steller sea lion,Eumetopias jubatus,Aquatic foods
+Bearded seal,Erignathus barbatus,Aquatic foods
+Ringed seal,Pusa hispida,Aquatic foods
+Seatrout,Cynoscion,Aquatic foods
+Sesbania flower,Sesbania bispinosa,Vegetables
+American shad,Alosa sapidissima,Aquatic foods
+Shark,Squaliformes,Aquatic foods
+Sheefish,Stenodus leucichthys,Aquatic foods
+"Sheep (Mutton, Lamb)",Ovis aries,Animal foods
+Sheepshead,Archosargus probatocephalus,Aquatic foods
+Hedge mustard,Sisymbrium,Herbs and Spices
+Skipjack tuna,Katsuwonus pelamis,Aquatic foods
+Snapper,Lutjanidae,Aquatic foods
+Soursop,Annona muricata,Fruits
+Spelt,Triticum spelta,Cereals and cereal products
+Spirulina,Spirulina,Aquatic foods
+Squab,Columba,Animal foods
+Squirrel,Sciuridae,Animal foods
+Strawberry guava,Psidium cattleianum,Fruits
+Greater sturgeon,Acipenser,Aquatic foods
+White sucker,Catostomus commersonii,Aquatic foods
+Sugar apple,Annona squamosa,Fruits
+Pumpkinseed sunfish,Lepomis gibbosus,Aquatic foods
+Swordfish,Xiphias gladius,Aquatic foods
+Taro,Colocasia esculenta,Vegetables
+Teff,Eragrostis tef,Herbs and Spices
+Tilefish,Lopholatilus chamaeleonticeps,Aquatic foods
+Mexican groundcherry,Physalis philadelphica var. immaculata,Vegetables
+Towel gourd,Luffa aegyptiaca,Gourds
+"Salmonidae (Salmon, Trout)",Salmonidae,Aquatic foods
+Turkey,Meleagris gallopavo,Animal foods
+"Cattle (Beef, Veal)",Bos taurus,Animal foods
+Walleye,Sander vitreus,Aquatic foods
+Alaska pollock,Theragra chalcogramma,Aquatic foods
+Wasabi,Wasabia japonica,Herbs and Spices
+Wax gourd,Benincasa hispida,Gourds
+Whelk,Buccinidae,Aquatic foods
+Coalfish pollock,Pollachius virens,Aquatic foods
+Broad whitefish,Coregonus nasus,Aquatic foods
+Whitefish,Coregonus,Aquatic foods
+Whiting,Merlangius merlangus,Aquatic foods
+Wild rice,Zizania,Cereals and cereal products
+Tea leaf willow,Salix pulchra,Herbs and Spices
+Winged bean,Psophocarpus tetragonolobus,Pulses
+Yam,Dioscorea,Vegetables
+Jicama,Pachyrhizus erosus,Vegetables
+Yautia,Xanthosoma sagittifolium,Vegetables
+Yellowfin tuna,Thunnus albacares,Aquatic foods
+Yellowtail amberjack,Seriola lalandi,Aquatic foods
+Pollock,Pollachius,Aquatic foods
+Albacore tuna,Thunnus alalunga,Aquatic foods
+Gadus (Common cod),Gadus,Aquatic foods
+Atlantic halibut,Hippoglossus hippoglossus,Aquatic foods
+Pacific halibut,Hippoglossus stenolepis,Aquatic foods
+Pacific salmon,Oncorhynchus,Aquatic foods
+Smelt,Osmeridae,Aquatic foods
+"Clupeinae (Herring, Sardine, Sprat)",Clupeinae,Aquatic foods
+Spiny lobster,Palinuridae,Aquatic foods
+Snow crab,Chionoecetes opilio,Aquatic foods
+Black-eyed pea,Vigna unguiculata ssp. unguiculata,Pulses
+Deer,Cervidae,Animal foods
+Macadamia nut,Macadamia,Nuts
+Percoidei (Bass and others),Percoidei,Aquatic foods
+Perciformes (Perch-like fishes),Perciformes,Aquatic foods
+Arctic ground squirrel,Urocitellus parryii,Animal foods
+Rabbit,Leporidae,Animal foods
+Domestic goat,Capra aegagrus hircus,Animal foods
+Beefalo,Bos taurus X Bison bison,Animal foods
+Antelope,Artiodactyla,Animal foods
+"Bivalvia (Clam, Mussel, Oyster)",Bivalvia,Aquatic foods
+Squid,Teuthida,Aquatic foods
+Shrimp,Caridea,Aquatic foods
+Crayfish,Astacidea,Aquatic foods
+Flatfish,Pleuronectiformes,Aquatic foods
+"Domestic pig (Piglet, Pork)",Sus scrofa domestica,Animal foods
+Walrus,Odobenus rosmarus,Aquatic foods
+Alaska wild rhubarb,Polygonum alpinum,Vegetables
+Oriental wheat,Triticum turanicum,Cereals and cereal products
+Yardlong bean,Vigna unguiculata ssp. sesquipedalis,Pulses
+Great horned owl,Bubo virginianus,Animal foods
+Quail,Phasianidae,Animal foods
+Boysenberry,Rubus ursinus X idaeus,Fruits
+Persian lime,Citrus latifolia,Fruits
+Feijoa,Feijoa sellowiana,Fruits
+Rowal,Pangium edule,Herbs and Spices
+Jew's ear,Auricularia auricula-judae,Vegetables
+Common mushroom,Agaricus bisporus,Vegetables
+Shiitake,Lentinus edodes,Vegetables
+Purple laver,Porphyra laciniata,Aquatic foods
+Wakame,Undaria pinnatifida,Aquatic foods
+Enokitake,Flammulina velutipes,Vegetables
+Epazote,Dysphania ambrosioides,Herbs and Spices
+Oyster mushroom,Pleurotus ostreatus,Vegetables
+Cloud ear fungus,Auricularia polytricha,Vegetables
+Maitake,Grifola frondosa,Vegetables
+Ostrich fern,Matteuccia struthiopteris,Vegetables
+Spot croaker,Leiostomus xanthurus,Aquatic foods
+Sourdock,Rumex articus,Herbs and Spices
+Tinda,Citrullus lanatus var. fistulosus,Gourds
+Atlantic menhaden,Brevoortia tyrannus,Aquatic foods
+Wheat,Triticum,Cereals and cereal products
+Common chokecherry,Prunus virginiana,Fruits
+Agave,Agave,Vegetables
+Narrowleaf cattail,Typha angustifolia,Vegetables
+Jellyfish,Scyphozoa,Aquatic foods
+Anchovy,Engraulidae,Aquatic foods
+Blue whiting,Micromesistius poutassou,Aquatic foods
+Carp bream,Abramis brama,Aquatic foods
+Chanterelle,Cantharellus cibarius,Vegetables
+Sturgeon,Acipenseridae,Aquatic foods
+Charr,Salvelinus,Aquatic foods
+Cinnamon,Cinnamomum,Herbs and Spices
+Crab,Brachyura,Aquatic foods
+Common dab,Limanda limanda,Aquatic foods
+Spiny dogfish,Squalus acanthias,Aquatic foods
+"Anatidae (Duck, Goose, Swan)",Anatidae,Animal foods
+Anguilliformes (Eel),Anguilliformes,Aquatic foods
+True frog,Ranidae,Aquatic foods
+Garfish,Belone belone,Aquatic foods
+"Gadiformes (Cod, Hake)",Gadiformes,Aquatic foods
+Mountain hare,Lepus timidus,Animal foods
+Lake trout,Salvelinus namaycush,Aquatic foods
+Lemon sole,Microstomus kitt,Aquatic foods
+Clawed lobster,Nephropidae,Aquatic foods
+Lumpsucker,Cyclopteridae,Aquatic foods
+"Scombridae (Bonito, Mackerel, Tuna)",Scombridae,Aquatic foods
+Marine mussel,Mytilidae,Aquatic foods
+Norway haddock,Sebastes viviparus,Aquatic foods
+Norway lobster,Nephrops norvegicus,Aquatic foods
+Norway pout,Trisopterus esmarkii,Aquatic foods
+Oil palm,Elaeis,Herbs and Spices
+True oyster,Ostreidae,Aquatic foods
+Sago palm,Metroxylon sagu,Herbs and Spices
+Persimmon,Diospyros,Fruits
+Pikeperch,Sander lucioperca,Aquatic foods
+"Pleuronectidae (Dab, Halibut, Plaice)",Pleuronectidae,Aquatic foods
+Rock ptarmigan,Lagopus muta,Animal foods
+Pacific ocean perch,Sebastes alutus,Aquatic foods
+Black salsify,Scorzonera hispanica,Vegetables
+True seal,Phocidae,Aquatic foods
+Red algae,Rhodophyta,Aquatic foods
+Kombu,Saccharina japonica,Aquatic foods
+Snail,Gastropoda,Aquatic foods
+True sole,Soleidae,Aquatic foods
+Catfish,Siluriformes,Aquatic foods
+Thistle,Cirsium,Vegetables
+Thunnus (Common tuna),Thunnus,Aquatic foods
+Walnut,Juglans,Nuts
+"Cetacea (Dolphin, Porpoise, Whale)",Cetacea,Aquatic foods
+"Columbidae (Dove, Pigeon)",Columbidae,Animal foods
+Conch,Strombidae,Aquatic foods
+Grape wine,NULL,Beverages
+Berry wine,NULL,Beverages
+Other wine,NULL,Beverages
+Apple cider,NULL,Beverages
+Liquor,NULL,Beverages
+Cheese,NULL,Milk and milk products
+Milk (Cow),,Milk and milk products
+Eggs,NULL,Eggs
+Yogurt,NULL,Milk and milk products
+Bean,NULL,Pulses
+Vodka,NULL,Beverages
+Whisky,NULL,Beverages
+Ice cream,NULL,Confectioneries
+Gin,NULL,Beverages
+Honey,NULL,Confectioneries
+Liquorice,NULL,Confectioneries
+Vinegar,NULL,Baking goods
+Rum,NULL,Beverages
+Port wine,NULL,Beverages
+Vermouth,NULL,Beverages
+Sherry,NULL,Beverages
+Madeira wine,NULL,Beverages
+Nougat,NULL,Confectioneries
+Toffee,NULL,Confectioneries
+Cake,NULL,Confectioneries
+Pizza,NULL,Dishes
+Ymer,NULL,Milk and milk products
+Other snack food,NULL,Snack foods
+Crisp bread,NULL,Cereals and cereal products
+Pastry,NULL,Confectioneries
+Dragée,NULL,Confectioneries
+Chewing gum,NULL,Confectioneries
+Marzipan,NULL,Confectioneries
+Salad dressing,NULL,Baking goods
+Sauce,NULL,Baking goods
+Salt,NULL,Baking goods
+Butter,NULL,Milk and milk products
+Butter substitute,NULL,Baking goods
+Cream,NULL,Milk and milk products
+Sugar,NULL,Baking goods
+Sausage,NULL,Dishes
+Meatball,NULL,Dishes
+Mustard,NULL,Baking goods
+Pate,NULL,Dishes
+Sugar substitute,NULL,Baking goods
+Meat bouillon,NULL,Baking goods
+Other meat product,NULL,Animal foods
+Whey,NULL,Milk and milk products
+Casein,NULL,Milk and milk products
+Fruit preserve,NULL,Fruits
+Leavening agent,NULL,Baking goods
+Marshmallow,NULL,Confectioneries
+Gelatin,NULL,Baking goods
+Water,NULL,Beverages
+Other fish product,NULL,Aquatic foods
+Milk (Human),NULL,Milk and milk products
+Other beverage,NULL,Beverages
+Baby food,NULL,Baby foods
+Dumpling,NULL,Dishes
+Soup,NULL,Dishes
+Other vegetable product,NULL,Vegetables
+Unclassified food or beverage,NULL,Unclassified
+Syrup,NULL,Baking goods
+Tallow,NULL,Fats and oils
+Remoulade,NULL,Baking goods
+Chocolate spread,NULL,Confectioneries
+Fruit gum,NULL,Confectioneries
+Curry powder,NULL,Herbs and Spices
+Other candy,NULL,Confectioneries
+Meringue,NULL,Confectioneries
+Lard,NULL,Fats and oils
+Other animal fat,NULL,Fats and oils
+Other cocoa product,NULL,Cocoa and cocoa products
+Cocoa butter,NULL,Cocoa and cocoa products
+Cocoa powder,NULL,Cocoa and cocoa products
+Cocoa liquor,NULL,Cocoa and cocoa products
+Chocolate,NULL,Cocoa and cocoa products
+Hot chocolate,NULL,Cocoa and cocoa products
+Dried milk,NULL,Milk and milk products
+Milk (Other mammals),NULL,Milk and milk products
+Kefir,NULL,Milk and milk products
+Buttermilk,NULL,Milk and milk products
+Other fermented milk,NULL,Milk and milk products
+Soy sauce,NULL,Soy
+Miso,NULL,Soy
+Tofu,NULL,Soy
+Zwieback,NULL,Cereals and cereal products
+Roe,NULL,Aquatic foods
+Cichlidae (Tilapia),Cichlidae,Aquatic foods
+Icing,NULL,Confectioneries
+Snack bar,NULL,Snack foods
+Green turtle,Chelonia mydas,Aquatic foods
+Energy drink,NULL,Beverages
+Burrito,NULL,Dishes
+Hamburger,NULL,Dishes
+Baked beans,NULL,Dishes
+Chili,NULL,Dishes
+Taco,NULL,Dishes
+Tortilla,NULL,Cereals and cereal products
+Nachos,NULL,Dishes
+Processed cheese,NULL,Milk and milk products
+Salad,NULL,Dishes
+Cream substitute,NULL,Baking goods
+Dulce de leche,NULL,Confectioneries
+Topping,NULL,Baking goods
+Sweet custard,NULL,Confectioneries
+Egg roll,NULL,Dishes
+Heart of palm,NULL,Vegetables
+Popcorn,NULL,Snack foods
+Potato chip,NULL,Snack foods
+Tortilla chip,NULL,Snack foods
+Corn chip,NULL,Snack foods
+Hibiscus tea,Hibiscus sabbariffa,Teas
+Stew,NULL,Dishes
+Gelatin dessert,NULL,Confectioneries
+Junket,NULL,Confectioneries
+Falafel,NULL,Dishes
+Frybread,NULL,Dishes
+Other frozen dessert,NULL,Confectioneries
+Lasagna,NULL,Dishes
+Morchella (Morel),Morchellaceae,Vegetables
+Pancake,NULL,Dishes
+Pectin,NULL,Baking goods
+Pudding,NULL,Confectioneries
+Waffle,NULL,Dishes
+Soy milk,NULL,Soy
+Meatloaf,NULL,Dishes
+Sake,NULL,Beverages
+Cocktail,NULL,Beverages
+Couscous,NULL,Dishes
+Bulgur,NULL,Cereals and cereal products
+Coffee substitute,NULL,Baking goods
+Coffee mocha,NULL,Coffee and coffee products
+Chimichanga,NULL,Dishes
+Semolina,NULL,Cereals and cereal products
+Tapioca pearl,NULL,Baking goods
+Tostada,NULL,Dishes
+Quesadilla,NULL,Dishes
+Baked potato,NULL,Dishes
+Hot dog,NULL,Dishes
+Spread,NULL,Baking goods
+Enchilada,NULL,Dishes
+Egg substitute,NULL,Baking goods
+Nutritional drink,NULL,Beverages
+Other sandwich,NULL,Dishes
+Ketchup,NULL,Baking goods
+Breakfast sandwich,NULL,Dishes
+Adobo,NULL,Baking goods
+Macaroni and cheese,NULL,Dishes
+Butterfat,NULL,Milk and milk products
+Horned melon,Cucumis metuliferus,Gourds
+Hushpuppy,NULL,Dishes
+Fruit juice,NULL,Beverages
+Relish,NULL,Baking goods
+Other fruit product,NULL,Fruits
+Fruit salad,NULL,Fruits
+Soy yogurt,NULL,Soy
+Vegetarian food,NULL,Dishes
+Veggie burger,NULL,Dishes
+Cold cut,NULL,Dishes
+Mixed nuts,NULL,Nuts
+Canola,NULL,Herbs and spices
+Babassu palm,Attalea speciosa,Herbs and Spices
+Cupuaçu,Theobroma grandiflorum,Herbs and Spices
+Shea tree,Vitellaria paradoxa,Herbs and Spices
+Oil-seed Camellia,Camellia oleifera,Herbs and Spices
+Ucuhuba,Virola surinamensis,Herbs and Spices
+Phyllo dough,NULL,Baking goods
+Cooking oil,NULL,Baking goods
+Pie crust,NULL,Baking goods
+Pie filling,NULL,Baking goods
+Pie,NULL,Confectioneries
+Shortening,NULL,Fats and oils
+Soy cream,NULL,Soy
+Ice cream cone,NULL,Baking goods
+Molasses,NULL,Baking goods
+Cracker,NULL,Snack foods
+Nance,Byrsonima crassifolia,Fruits
+Naranjilla,Solanum quitoense,Fruits
+Natto,NULL,Soy
+Ravioli,NULL,Dishes
+Scrapple,NULL,Dishes
+Other pasta dish,NULL,Dishes
+Succotash,NULL,Dishes
+Tamale,NULL,Dishes
+Rice cake,NULL,Dishes
+Tree fern,Cyathea,Vegetables
+Evaporated milk,NULL,Milk and milk products
+Flour,NULL,Cereals and cereal products
+Akutaq,NULL,Confectioneries
+Dough,NULL,Cereals and cereal products
+Pita bread,NULL,Cereals and cereal products
+Focaccia,NULL,Cereals and cereal products
+Bagel,NULL,Cereals and cereal products
+Other bread product,NULL,Cereals and cereal products
+Piki bread,NULL,Cereals and cereal products
+French toast,NULL,Cereals and cereal products
+Wheat bread,NULL,Cereals and cereal products
+Rye bread,NULL,Cereals and cereal products
+Oat bread,,Cereals and cereal products
+Potato bread,NULL,Cereals and cereal products
+Cornbread,NULL,Cereals and cereal products
+Corn grits,NULL,Cereals and cereal products
+Multigrain bread,NULL,Cereals and cereal products
+Rice bread,NULL,Cereals and cereal products
+Pan dulce,NULL,Cereals and cereal products
+Raisin bread,NULL,Cereals and cereal products
+Wonton wrapper,NULL,Baking goods
+Trail mix,NULL,Snack foods
+Greenthread tea,Thelesperma,Teas
+Fruit-flavor drink,NULL,Beverages
+Vegetable juice,NULL,Beverages
+Horchata,NULL,Beverages
+Soft drink,NULL,Beverages
+Frozen yogurt,NULL,Confectioneries
+Milkshake,NULL,Confectioneries
+Chocolate mousse,NULL,Confectioneries
+Dripping,NULL,Fats and oils
+Pupusa,NULL,Dishes
+Empanada,NULL,Dishes
+Arepa,NULL,Dishes
+Ascidians,Ascidiacea,Aquatic foods
+Gefilte fish,NULL,Dishes
+Yellow pond-lily,Nuphar lutea,Herbs and Spices
+Fish burger,NULL,Dishes
+Other dish,NULL,Dishes
+Pot pie,NULL,Dishes
+Stuffing,NULL,Baking goods
+Edible shell,NULL,Baking goods
+Fudge,NULL,Confectioneries
+Candy bar,NULL,Confectioneries
+Condensed milk,NULL,Milk and milk products
+Margarine,NULL,Fats and oils
+Margarine-like spread,NULL,Fats and oils
+Hummus,NULL,Dishes
+Potato puffs,NULL,Dishes
+Potato gratin,NULL,Dishes
+Milk substitute,NULL,Baking goods
+Pepper (C. pubescens),Capsicum pubescens,Vegetables
+Soft-necked garlic,Allium sativum L. var. sativum,Herbs and Spices
+Cabbage,Brassica oleracea var. capitata,Vegetables
+Chinese bayberry,Myrica rubra,Fruits
+Mushrooms,NULL,Vegetables
+Alcoholic beverages,NULL,Beverages
+Onion-family vegetables,NULL,Vegetables
+Pomes,NULL,Fruits
+Brassicas,NULL,Vegetables
+Cereals and cereal products,NULL,Cereals and cereal products
+Citrus,NULL,Fruits
+Cocoa and cocoa products,NULL,Cocoa and cocoa products
+Coffee and coffee products,NULL,Coffee and coffee products
+Crustaceans,NULL,Aquatic foods
+Milk and milk products,NULL,Milk and milk products
+Fats and oils,NULL,Fats and oils
+Fishes,NULL,Aquatic foods
+Herbs and Spices,NULL,Herbs and Spices
+Pulses,,Pulses
+Animal foods,NULL,Animal foods
+Mollusks,NULL,Aquatic foods
+Nuts,NULL,Nuts
+Beverages,NULL,Beverages
+Fruits,NULL,Fruits
+Green vegetables,NULL,Vegetables
+Root vegetables,NULL,Vegetables
+Sunburst squash (pattypan squash),Cucurbita pepo var. clypeata,Gourds
+Green zucchini,Cucurbita pepo var. cylindrica,Gourds
+Yellow zucchini,Cucurbita pepo var. cylindrica,Gourds
+Green bell pepper,Capsicum annuum,Vegetables
+Yellow bell pepper,Capsicum annuum,Vegetables
+Orange bell pepper,Capsicum annuum,Vegetables
+Red bell pepper,Capsicum annuum,Vegetables
+Italian sweet red pepper,Capsicum annuum,Vegetables
+Yellow wax bean,Phaseolus vulgaris,Pulses
+Green bean,Phaseolus vulgaris,Pulses
+Saskatoon berry,Amelanchier alnifolia,Fruits
+Nanking cherry,Prunus tomentosa,Fruits
+Japanese pumpkin,Cucurbita maxima,Gourds
+White cabbage,Brassica oleracea L. var. capitata L. f. alba DC.,Vegetables
+Romaine lettuce,Lactuca sativa L. var. longifolia,Vegetables
+"Cow milk, pasteurized, vitamin A + D added, 0% fat",,Milk and milk products
+"Cow milk, pasteurized, vitamin A + D added, 1% fat",,Milk and milk products
+"Cow milk, pasteurized, vitamin A + D added, 2% fat",,Milk and milk products
+"Cow milk, pasteurized, vitamin D added, 3.25% fat",,Milk and milk products
