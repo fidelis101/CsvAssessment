@@ -9,17 +9,17 @@ namespace CousantAssessment
     {
         static void Main(string[] args)
         {
-            var foods = new List<string>();
+            var foodCategories = new List<string>();
             using (var rd = new StreamReader("generic-food.csv"))
             {
                 while (!rd.EndOfStream)
                 {
                     var splits = rd.ReadLine().Split(',');
                     var categoryIndex = splits.Length - 1;
-                    foods.Add(splits[categoryIndex]);
+                    foodCategories.Add(splits[categoryIndex]);
                 }
             }
-            var r = from e in foods
+            var r = from e in foodCategories
                     where e != "CATEGORY"
                     group e by new { e } into g
                     select new
@@ -33,6 +33,7 @@ namespace CousantAssessment
                 Console.WriteLine(foodCategory.Category + " ........ " + foodCategory.Count);
 
         }
+
 
     }
 }
