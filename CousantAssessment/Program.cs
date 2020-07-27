@@ -9,22 +9,22 @@ namespace CousantAssessment
     {
         static void Main(string[] args)
         {
-            var foods = new List<food>();
+            var foods = new List<string>();
             using (var rd = new StreamReader("generic-food.csv"))
             {
                 while (!rd.EndOfStream)
                 {
                     var splits = rd.ReadLine().Split(',');
                     var categoryIndex = splits.Length - 1;
-                    foods.Add(new food { Category = splits[categoryIndex] });
+                    foods.Add(splits[categoryIndex]);
                 }
             }
             var r = from e in foods
-                    where e.Category != "CATEGORY"
-                    group e by new { e.Category } into g
+                    where e != "CATEGORY"
+                    group e by new { e } into g
                     select new
                     {
-                        g.Key.Category,
+                        Category = g.Key.e,
                         Count = g.Count()
                     };
 
@@ -34,9 +34,5 @@ namespace CousantAssessment
 
         }
 
-        class food
-        {
-            public string Category { get; set; }
-        }
     }
 }
