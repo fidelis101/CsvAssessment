@@ -12,6 +12,14 @@ namespace CousantAssessment
     {
         static void Main(string[] args)
         {
+            PrintCategories();
+            GetMondayNews();
+            Console.ReadKey();
+
+        }
+
+        public static void PrintCategories()
+        {
             var foodCategories = new List<string>();
             using (var rd = new StreamReader("generic-food.csv"))
             {
@@ -35,11 +43,7 @@ namespace CousantAssessment
             foreach (var foodCategory in r.OrderByDescending(r => r.Count))
                 Console.WriteLine(foodCategory.Category + " ........ " + foodCategory.Count);
 
-            GetMondayNews();
-            Console.ReadKey();
-
         }
-
         public static void GetMondayNews()
         {
             using(HttpClient client = new HttpClient())
