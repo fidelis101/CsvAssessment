@@ -12,20 +12,15 @@ namespace CousantAssessment
             var foods = new List<food>();
             using (var rd = new StreamReader("generic-food.csv"))
             {
-                var firstRow = true;
                 while (!rd.EndOfStream)
                 {
-                    if(!firstRow)
-                    {
-                        var splits = rd.ReadLine().Split(',');
-                        var categoryIndex = splits.Length - 1;
-                        foods.Add(new food { Category = splits[categoryIndex] });
-                        firstRow = false;
-                    }
-                    firstRow = false;
+                    var splits = rd.ReadLine().Split(',');
+                    var categoryIndex = splits.Length - 1;
+                    foods.Add(new food { Category = splits[categoryIndex] });
                 }
             }
             var r = from e in foods
+                    where e.Category != "CATEGORY"
                     group e by new { e.Category } into g
                     select new
                     {
@@ -33,9 +28,9 @@ namespace CousantAssessment
                         Count = g.Count()
                     };
 
-            //print category
-            foreach (var foodCategory in r.OrderByDescending(r=>r.Count))
-                Console.WriteLine(foodCategory.Category + "........" + foodCategory.Count);
+            //print category in order of highest category count
+            foreach (var foodCategory in r.OrderByDescending(r => r.Count))
+                Console.WriteLine(foodCategory.Category + " ........ " + foodCategory.Count);
 
         }
 
